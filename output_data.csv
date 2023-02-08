@@ -1,0 +1,4 @@
+,product_code,quantity,product_name,unit_price,total_price
+0,p_001,20,pencil,50,1000
+1,p_002,6,notebook,100,600
+2,p_003,5,eraser,80,400
